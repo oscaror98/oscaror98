@@ -1,6 +1,6 @@
 # Hola 👋
 
-Soy Juan Pérez.
+Soy Óscar Ortega.
 
 Desarrollador Backend especializado en APIs, bases de datos y aplicaciones escalables.
 
