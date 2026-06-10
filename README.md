@@ -31,7 +31,6 @@ Actualmente aprendiendo y construyendo proyectos reales para desarrollar experie
 ## 📫 Contacto
 
 LinkedIn: https://linkedin.com/in/oscar-ortega-real
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 Portfolio: https://github.com/oscaror98
 
