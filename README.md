@@ -4,12 +4,14 @@ Soy Óscar Ortega.
 
 Desarrollador Backend especializado en APIs, bases de datos y aplicaciones escalables.
 
-Actualmente aprendiendo y construyendo proyectos reales para desarrollar experiencia profesional.
+Actualmente construyendo proyectos reales con FastAPI, Node.js y bases de datos modernas para mejorar mi perfil profesional.
 
 ---
 
 ## 🚀 Tecnologías
 
+- FastAPI
+- Python
 - Node.js
 - Express
 - PostgreSQL
@@ -21,32 +23,32 @@ Actualmente aprendiendo y construyendo proyectos reales para desarrollar experie
 
 ## 📂 Proyectos
 
-- Portfolio Web
-- API REST de Gestión de Tareas
-- Sistema de Autenticación
-- Sistema de Colas
+### 🔐 API Auth & Tasks (FastAPI)
+API REST con autenticación JWT, usuarios y tareas protegidas.
+
+- Registro y login de usuarios
+- Autenticación con JWT
+- Rutas protegidas
+- Swagger/OpenAPI automático
+- SQLAlchemy ORM
+
+👉 Documentación API:
+http://127.0.0.1:8000/docs
+
+---
+
+### Portfolio Web
+Proyecto personal de presentación profesional.
+
+---
+
+### Sistema de Colas
+Arquitectura de procesamiento asíncrono.
 
 ---
 
 ## 📫 Contacto
 
-LinkedIn: https://linkedin.com/in/oscar-ortega-real
-
-Portfolio: https://github.com/oscaror98
-
-Email: oscaror98@gmail.com
-
-<!--
-**oscaror98/oscaror98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: https://linkedin.com/in/oscar-ortega-real
+- GitHub: https://github.com/oscaror98
+- Email: oscaror98@gmail.com
