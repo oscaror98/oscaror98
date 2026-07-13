@@ -2,9 +2,7 @@
 
 Soy Óscar Ortega.
 
-Desarrollador Backend especializado en Python, FastAPI y arquitecturas backend.
-
-Actualmente estoy construyendo un portfolio de proyectos reales enfocados en APIs REST, autenticación, bases de datos, Docker, Redis y sistemas distribuidos.
+Desarrollador Backend especializado en Python y FastAPI. Actualmente construyendo proyectos reales para demostrar conocimientos en diseño de APIs, autenticación, bases de datos, Docker y arquitecturas escalables.
 
 ---
 
@@ -25,56 +23,38 @@ Actualmente estoy construyendo un portfolio de proyectos reales enfocados en API
 
 ## 🔐 Auth Task Manager API
 
-API REST completa desarrollada con FastAPI.
+API REST completa con autenticación JWT y gestión de tareas.
 
-Incluye:
-
-- Registro de usuarios
-- Login JWT
-- Refresh Tokens
-- CRUD de tareas
-- Password Reset
-- Rate Limiting
+**Stack**
+- FastAPI
 - PostgreSQL
 - Redis
 - Docker
-- Tests con Pytest
+- Pytest
 
-**Repositorio**
+**Incluye**
+- Registro de usuarios
+- Login JWT
+- Refresh Tokens
+- Password Reset
+- CRUD de tareas
+- Rate Limiting
 
+🔗 Repositorio:
 https://github.com/oscaror98/auth-task-manager-api
 
----
-
-## 📦 Próximamente
-
-### ⚡ Event Processing System
-
-Procesamiento asíncrono mediante Redis y Workers.
+📄 Swagger:
+https://auth-task-manager-api.onrender.com/docs
 
 ---
 
-### 🛒 Ecommerce Backend
+## 🚧 Próximamente
 
-API REST completa con productos, pedidos y carrito.
-
----
-
-### ☁ Weather Cache API
-
-Integración con APIs externas y caché mediante Redis.
-
----
-
-### 💬 Real Time Chat
-
-Chat en tiempo real usando WebSockets.
-
----
-
-### 🏢 Mini CRM SaaS
-
-Proyecto backend completo con arquitectura por capas, roles, Docker, CI/CD y tests.
+- Event Processing System
+- Ecommerce Backend
+- Weather Cache API
+- Realtime Chat
+- Mini CRM SaaS
 
 ---
 
