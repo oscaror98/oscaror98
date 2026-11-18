@@ -1,91 +1,45 @@
-# Hola 👋
+# Hola 👋, soy Óscar Ortega
 
-Soy **Óscar Ortega**, desarrollador Backend especializado en **Python** y **FastAPI**.
+### Programador Cloud / DevOps & Backend
 
-Actualmente estoy construyendo una colección de proyectos backend siguiendo un roadmap profesional para profundizar en APIs, arquitecturas escalables, procesamiento asíncrono, bases de datos y despliegue con Docker.
-
----
-
-# 🚀 Tecnologías
-
-* Python
-* FastAPI
-* SQLAlchemy
-* PostgreSQL
-* Redis
-* Docker
-* Pytest
-* Git
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia en el desarrollo de APIs, automatización e integración de servicios cloud[cite: 1]. Actualmente ampliando mi especialización en administración de sistemas y arquitecturas en la nube[cite: 1].
 
 ---
 
-# 📂 Proyectos
+## 🛠️ Tecnologías y Herramientas
 
-## 🔐 Auth Task Manager API
-
-API REST completa con autenticación JWT y gestión de tareas.
-
-**Stack**
-
-* FastAPI
-* PostgreSQL
-* Redis
-* Docker
-* Pytest
-
-**Características**
-
-* Registro y autenticación JWT
-* Refresh Tokens
-* Password Reset
-* CRUD de tareas
-* Rate Limiting
-
-🔗 Repositorio
-**https://github.com/oscaror98/auth-task-manager-api**
-
-📄 Swagger
-**https://auth-task-manager-api.onrender.com/docs**
+- **Cloud & DevOps:** AWS, Azure, Proxmox, Terraform / OpenTofu, Contenedores, n8n[cite: 1]
+- **Backend & APIs:** Node.js, Python, Java (Spring, Spring Boot, Spring Security, Spring Integration)[cite: 1]
+- **Lenguajes:** JavaScript, C#, Ruby[cite: 1]
+- **Bases de Datos & Herramientas:** Git, SQL[cite: 1]
 
 ---
 
-## ⚡ Event Processing System
+## 💼 Experiencia Profesional
 
-Sistema de procesamiento asíncrono de eventos utilizando colas de trabajo.
-
-**Stack**
-
-* FastAPI
-* Redis
-* Redis Queue (RQ)
-* Docker
-* Pytest
-
-**Características**
-
-* Procesamiento asíncrono
-* Background Workers
-* Reintentos automáticos
-* Consulta del estado de los trabajos
-* Logging estructurado
-
-🔗 Repositorio
-**https://github.com/oscaror98/event-processing-system**
+### **Programador / Desarrollador** | Cibernova Labs Valencia *(2024)*[cite: 1]
+* Desarrollo de APIs e integración de servicios utilizando **AWS**, **Textract**, **n8n** y **Node.js**[cite: 1].
+* Participación activa en la definición y desarrollo de soluciones tecnológicas[cite: 1].
+* Consultoría de soluciones de Inteligencia Artificial tanto para clientes nuevos como existentes[cite: 1].
+* *(Nota: Incluyó un periodo inicial de prácticas de tres meses realizando funciones de desarrollo y soporte técnico antes de la contratación)*[cite: 1].
 
 ---
 
-# 🎯 Actualmente aprendiendo
+## 📚 Formación Académica
 
-* Arquitecturas asíncronas
-* Diseño de APIs escalables
-* Docker
-* Testing
-* Arquitectura Backend
+- **Especialización de Servicios y Recursos en la Nube** | IES La Sénia, Paiporta *(En curso)*[cite: 1]
+- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | IES Dr Faustí Barberà, Alaquàs[cite: 1]
 
 ---
 
-# 📫 Contacto
+## 🎯 Objetivo Profesional
 
-* GitHub: https://github.com/oscaror98
-* LinkedIn: https://linkedin.com/in/oscar-ortega-real
-* Email: [oscaror98@gmail.com](mailto:oscaror98@gmail.com)
+Interés en posiciones de **Programador Backend, Cloud, DevOps o SysAdmin**, especialmente en entornos dinámicos donde pueda combinar el desarrollo de software, la automatización, los servicios cloud y la administración de sistemas[cite: 1].
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [linkedin.com/in/oscar-ortega-real](https://linkedin.com/in/oscar-ortega-real)[cite: 1]
+- 🐙 **GitHub:** [github.com/oscaror98](https://github.com/oscaror98)[cite: 1]
+- ✉️ **Email:** [oscaror98@gmail.com](mailto:oscaror98@gmail.com)[cite: 1]
