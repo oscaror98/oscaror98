@@ -15,8 +15,6 @@
 
 Desarrollo APIs, automatizo procesos y despliego infraestructura en la nube. Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, con experiencia profesional en backend e integración de servicios, y actualmente me especializo en servicios y recursos en la nube.
 
-Busco incorporarme a un equipo de Backend, Cloud, DevOps o administración de sistemas, donde el desarrollo, la automatización y la infraestructura trabajen de la mano.
-
 ---
 
 ### Stack
