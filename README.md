@@ -1,48 +1,39 @@
-# Óscar Ortega Real
-## Programador Cloud / DevOps & Backend
+<h1 align="center">Óscar Ortega Real</h1>
 
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) con experiencia profesional en el desarrollo de APIs, automatización de procesos e integración de servicios en la nube. Actualmente ampliando mi especialización en administración de sistemas y arquitecturas cloud.
+<p align="center">
+  <strong>Cloud &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Backend</strong>
+</p>
 
----
-
-### Perfil Profesional
-
-Interés en posiciones de Programador Backend, Cloud, DevOps o Administrador de Sistemas, especialmente en entornos dinámicos orientados a combinar el desarrollo de software, la automatización y la infraestructura.
-
----
-
-### Tecnologías y Competencias
-
-* **Cloud & DevOps:** AWS, Azure, Proxmox, Terraform, OpenTofu, Contenedores, n8n
-* **Backend & APIs:** Node.js, Python, Java (Spring, Spring Boot, Spring Security, Spring Integration)
-* **Lenguajes:** JavaScript, C#, Ruby
-* **Bases de Datos & Herramientas:** Git, SQL
+<p align="center">
+  <a href="https://linkedin.com/in/oscar-ortega-real">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/oscaror98">GitHub</a> &nbsp;·&nbsp;
+  <a href="mailto:oscaror98@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="./cv.pdf">CV en PDF</a>
+</p>
 
 ---
 
-### Experiencia Profesional
+Desarrollo APIs, automatizo procesos y despliego infraestructura en la nube. Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, con experiencia profesional en backend e integración de servicios, y actualmente me especializo en servicios y recursos en la nube.
 
-**Programador / Desarrollador — Cibernova Labs Valencia**
-*Periodo: 09/02/2024 - 19/09/2024* *(Incluye período previo de prácticas de tres meses)*
-
-* Desarrollo de APIs e integración de servicios mediante AWS, Textract, n8n y Node.js.
-* Participación activa en la definición y desarrollo de soluciones tecnológicas.
-* Consultoría de soluciones de Inteligencia Artificial para clientes nuevos y existentes.
+Busco incorporarme a un equipo de Backend, Cloud, DevOps o administración de sistemas, donde el desarrollo, la automatización y la infraestructura trabajen de la mano.
 
 ---
 
-### Formación Académica
+### Stack
 
-* **Especialización de Servicios y Recursos en la Nube**
-  * IES La Sénia, Paiporta (Valencia) — *En curso (Desde octubre de 2026)*
-* **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
-  * IES Dr Faustí Barberà, Alaquàs (Valencia) — *2022 - 2024*
+| Área | Tecnologías |
+|:--|:--|
+| Cloud e infraestructura | AWS, Azure, Proxmox, Terraform, OpenTofu, contenedores |
+| Backend y APIs | Node.js, Python, Java (Spring Boot, Spring Security, Spring Integration) |
+| Automatización | n8n, integración de servicios, AWS Textract |
+| Lenguajes y datos | JavaScript, C#, Ruby, SQL, Git |
 
 ---
 
-### Contacto y Documentación
+### Trayectoria
 
-* **CV en PDF:** [Descargar Currículum](./cv.pdf)
-* **LinkedIn:** [linkedin.com/in/oscar-ortega-real](https://linkedin.com/in/oscar-ortega-real)
-* **GitHub:** [github.com/oscaror98](https://github.com/oscaror98)
-* **Email:** [oscaror98@gmail.com](mailto:oscaror98@gmail.com)
+**Cibernova Labs Valencia** (2024)
+Desarrollo de APIs e integración de servicios con AWS, Textract, n8n y Node.js, además de consultoría de soluciones de IA para clientes.
+
+**Formación**
+Especialización en Servicios y Recursos en la Nube, IES La Sénia (desde octubre de 2026) · Técnico Superior en DAM, IES Dr Faustí Barberà (2022 - 2024)
