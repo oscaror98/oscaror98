@@ -40,8 +40,9 @@ Interés en posiciones de Programador Backend, Cloud, DevOps o Administrador de 
 
 ---
 
-### Contacto
+### Contacto y Documentación
 
+* **CV en PDF:** [Descargar Currículum](./cv.pdf)
 * **LinkedIn:** [linkedin.com/in/oscar-ortega-real](https://linkedin.com/in/oscar-ortega-real)
 * **GitHub:** [github.com/oscaror98](https://github.com/oscaror98)
 * **Email:** [oscaror98@gmail.com](mailto:oscaror98@gmail.com)
